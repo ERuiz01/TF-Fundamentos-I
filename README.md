@@ -4,7 +4,10 @@ El presente trabajo aborda el caso de una empresa llamada FisioLife - Consultori
 
 Integrantes:
 ●	Ruiz Mundaca, Edgar Jahir U201620833
+
 ●	López Raygada Criado, Nancy Ágata U201811501
+
 ●	Rondón Juárez, Cesar David U202412075
+
 ●	Mendoza Mamani, Jorge Luis Fernando U202419922
 
